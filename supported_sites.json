@@ -2407,6 +2407,21 @@
     "lastSelector": ".fa-forward",
     "lastIndex": "0"
   },
+ {
+    "url": "https://www.gocomics.com/calvinandhobbesespanol/2004/03/01",
+    "title": "Calvin y Hobbes en español",
+    "imageUrl": "https://i.pinimg.com/originals/6d/9e/c5/6d9ec5c6db887a0ce13041228476db7e.png",
+    "imageSelector": ".item-comic-image img",
+    "imageIndex": "0",
+    "firstSelector": ".fa-backward",
+    "firstIndex": "0",
+    "prevSelector": ".fa-caret-left",
+    "prevIndex": "0",
+    "nextSelector": ".fa-caret-right",
+    "nextIndex": "0",
+    "lastSelector": ".fa-forward",
+    "lastIndex": "0"
+  },
   {
     "url": "http://phdcomics.com/",
     "title": "PHD comics",
